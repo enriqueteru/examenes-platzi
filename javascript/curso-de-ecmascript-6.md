@@ -26,8 +26,11 @@
 
 #### Q7. Identifica la "Promesa" entre los siguientes bloques de código:
 
-- [x] const helloPromise = () => {
-  ```return new Promise((resolve, reject) => {
+- [x]
+
+```
+  const helloPromise = () => {
+   return new Promise((resolve, reject) => {
     if (true) {
     resolve('Hey!');
     } else {
@@ -35,7 +38,7 @@
     }
     });
     };
-  ```
+```
 
 #### Q8. ¿Cuál es la forma correcta de exportar un módulo en ES6?
 
@@ -65,7 +68,8 @@
 
 - [x]
 
-```try {
+```
+      try {
       // some code
       } catch {
       // error handling code
