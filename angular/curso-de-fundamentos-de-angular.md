@@ -58,7 +58,7 @@
 
 #### Q15. ¿Cuál es comando que nos ofrece Angular alistar nuestro proyecto para producción?
 
-    - [x] ng build
+- [x] ng build
 
 ## Bibliografía
 
